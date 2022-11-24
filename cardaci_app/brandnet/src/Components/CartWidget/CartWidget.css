@@ -1,0 +1,18 @@
+.cartWidget{
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    max-height: 60px;
+    margin-left: 25px;
+}
+
+.cart{
+    transform: scaleX(-1);
+    max-width: 60px;
+}
+
+.cartCount{
+    font-family: "League Spartan";
+    font-size: 22px;
+    margin-left: 10px;
+}

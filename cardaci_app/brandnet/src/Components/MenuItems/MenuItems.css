@@ -1,0 +1,21 @@
+.menuItems{
+    margin-left: 25px;
+    margin-top: 120px;
+    
+}
+
+ul{
+    padding:0px;
+    list-style: none;
+}
+
+li{
+    font-family: "League Spartan";
+    font-size: 38px;
+    color: #023047;
+    margin-bottom: 90px;
+}
+
+a{
+    text-decoration: none;
+}

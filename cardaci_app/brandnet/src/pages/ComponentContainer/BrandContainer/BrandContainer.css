@@ -1,0 +1,18 @@
+.BrandContainer{
+    display: flex;
+    align-items: center;
+
+    background-color: #219EBC;
+    height: 100%;
+    width: 100%;
+}
+
+/* #circle {
+    position: relative;
+    border: 10px solid red;
+    background: none;
+    border-radius: 50%;
+    width:80px;
+    height:80px;
+    align-self: center;
+} */
